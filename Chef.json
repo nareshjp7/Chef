@@ -1,0 +1,25 @@
+Chef
+Configuration managements
+
+3 types
+
+Workstation ----cookbooks
+Chef Server 
+Client server
+
+minimum 4GB Ram
+
+Chef dk download
+linux run rpm -ivh
+
+chef server create
+Browser:  manage.chef.io
+create chef
+detail full
+email verifition
+create new organization
+click download starter Kit
+
+knife bootstrap ip -x user -p password -n node1
+
+
